@@ -6,12 +6,6 @@
     "configurations": [
         
         {
-            "name": ".NET Core Attach",
-            "type": "coreclr",
-            "request": "attach"
-        },
-
-        {
             "name": ".NET Core Launch (console)",
             "type": "coreclr",
             "request": "launch",
@@ -36,7 +30,7 @@
             "program": "${workspaceFolder}/bin/Debug/net6.0/questionMaster.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopAtEntry": false
         },
         {

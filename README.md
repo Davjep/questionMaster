@@ -1,3 +1,3 @@
 # questionMaster
 
-An app which asks for the course, then gives you either a randomized question, or a quiestion in the book/examination order. 
+Program created for easy studying in LTU exams. Asks you for the course, then presents you with either a randomized question, or a quiestion in the book/examination order. 
