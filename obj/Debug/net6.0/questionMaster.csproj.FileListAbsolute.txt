@@ -1,0 +1,15 @@
+/home/davjep/dev/questionMaster/bin/Debug/net6.0/questionMaster
+/home/davjep/dev/questionMaster/bin/Debug/net6.0/questionMaster.deps.json
+/home/davjep/dev/questionMaster/bin/Debug/net6.0/questionMaster.runtimeconfig.json
+/home/davjep/dev/questionMaster/bin/Debug/net6.0/questionMaster.dll
+/home/davjep/dev/questionMaster/bin/Debug/net6.0/ref/questionMaster.dll
+/home/davjep/dev/questionMaster/bin/Debug/net6.0/questionMaster.pdb
+/home/davjep/dev/questionMaster/obj/Debug/net6.0/questionMaster.csproj.AssemblyReference.cache
+/home/davjep/dev/questionMaster/obj/Debug/net6.0/questionMaster.GeneratedMSBuildEditorConfig.editorconfig
+/home/davjep/dev/questionMaster/obj/Debug/net6.0/questionMaster.AssemblyInfoInputs.cache
+/home/davjep/dev/questionMaster/obj/Debug/net6.0/questionMaster.AssemblyInfo.cs
+/home/davjep/dev/questionMaster/obj/Debug/net6.0/questionMaster.csproj.CoreCompileInputs.cache
+/home/davjep/dev/questionMaster/obj/Debug/net6.0/questionMaster.dll
+/home/davjep/dev/questionMaster/obj/Debug/net6.0/ref/questionMaster.dll
+/home/davjep/dev/questionMaster/obj/Debug/net6.0/questionMaster.pdb
+/home/davjep/dev/questionMaster/obj/Debug/net6.0/questionMaster.genruntimeconfig.cache
